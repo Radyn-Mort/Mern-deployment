@@ -19,7 +19,7 @@ if(loaded){
     <div>
       <div className='row'>
         <h2 className='col'>These pets need a good Home</h2>
-        <Link to={'/add'} className='col'>Add a pet to the shelter</Link>
+        {/* <Link to={'/add'} className='col'>Add a pet to the shelter</Link> */}
       </div>
       <table className='table table-striped table-dark'>
         <thead>

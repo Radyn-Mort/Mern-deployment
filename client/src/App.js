@@ -10,6 +10,7 @@ function App() {
       <div className="row">
       <h1 className="col">Pet Shelter</h1>
       <Link to={'/'} className='col'>Home</Link>
+      <Link to={'/add'} className='col'>Add a pet to the shelter</Link>
       </div>
       {/* <Link to={'/'}>ViewAll</Link>
       <Link to={'/add'}>Add</Link> */}
